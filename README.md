@@ -117,9 +117,3 @@ Final held-out test scores are in `reference_results/final_test_scores.csv`.
 python scripts/check_environment.py
 python scripts/verify_reference_results.py
 ```
-
-## AI-use statement
-
-The dissertation states that ChatGPT was used primarily for language polishing
-and to assist with code drafting and debugging. All code, analyses and final
-written content were reviewed and verified by the author.
