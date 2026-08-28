@@ -1,0 +1,4 @@
+block_length,mean_difference_4_minus_5,ci_lower,ci_upper,p_difference_above_0,ci_includes_zero
+7,1.8396556732275249e-06,-0.000116,0.000117,0.5444,True
+14,1.8396556732275249e-06,-0.000139,0.000141,0.547,True
+30,1.8396556732275249e-06,-0.000161,0.000161,0.5266,True

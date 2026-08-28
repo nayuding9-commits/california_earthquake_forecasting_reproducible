@@ -1,0 +1,5 @@
+model,test_log_score,gain_vs_LT,ci_lower_vs_LT,ci_upper_vs_LT
+XGBoost,-0.027093,0.002636,0.002157,0.003223
+Poisson,-0.028978,0.000751,0.000577,0.000943
+ConvLSTM,-0.029138,0.000591,-0.00035,0.001442
+LT,-0.029729,0.0,,

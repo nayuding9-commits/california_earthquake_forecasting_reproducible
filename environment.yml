@@ -1,0 +1,21 @@
+name: earthquake-forecasting
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - numpy>=2.0
+  - pandas>=2.2
+  - scipy>=1.13
+  - scikit-learn>=1.5
+  - matplotlib>=3.9
+  - requests>=2.32
+  - geopandas>=1.0
+  - shapely>=2.0
+  - pyproj>=3.6
+  - pyogrio>=0.9
+  - joblib>=1.4
+  - jupyterlab>=4.2
+  - pip:
+      - xgboost==3.4.1
+      - torch==2.8.0
